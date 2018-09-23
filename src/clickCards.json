@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "letter": "A",
+    "clicked": false,
+    "image": "fish1.jpg"
+},
+{   "id": 2,
+    "letter": "B",
+    "clicked": false,
+    "image": "fish2.jpg"
+},
+{  "id": 3,
+    "letter": "C",
+    "clicked": false,
+    "image": "fish3.jpg"
+},
+{   "id": 4,
+    "letter": "D",
+    "clicked": false,
+    "image": "fish4.jpg"
+},
+{   "id": 5,
+    "letter": "E",
+    "clicked": false,
+    "image": "fish5.jpg"
+},
+{   "id": 6,
+    "letter": "F",
+    "clicked": false,
+    "image": "fish6.jpg"
+},
+{   "id": 7,
+    "letter": "G",
+    "clicked": false,
+    "image": "fish7.jpg"
+},
+{   "id": 8,
+    "letter": "H",
+    "clicked": false,
+    "image": "fish8.png"
+},
+{   "id": 9,
+    "letter": "I",
+    "clicked": false,
+    "image": "fish9.jpg"
+},
+{   "id": 10,
+    "letter": "J",
+    "clicked": false,
+    "image": "fish10.jpg"
+},
+{   "id": 11,
+    "letter": "K",
+    "clicked": false,
+    "image": "fish11.jpg"
+},
+{   "id": 12,
+    "letter": "L",
+    "clicked": false,
+    "image": "fish12.jpg"
+}]
