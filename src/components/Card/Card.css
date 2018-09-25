@@ -8,9 +8,10 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;              /* optional, center the image */
+    margin-top: 20px;
 
 }
 .card:hover{
-    color: rgb(65, 39, 114);
+    color: rgb(240, 58, 73);
     font-size: 30px;
 }

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import GameContainer from "./components/GameContainer";
-import "./components/nav";
-import "./components/header";
+import "./components/Navbar";
+import "./components/Header";
 
 const App = () => < GameContainer/>;
 
